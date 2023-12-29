@@ -2,7 +2,10 @@
 ![image](https://github.com/SnowScriptWinterOfCode/UI-UX-Case-Studies/assets/97171261/a014de97-43f5-46c4-81dd-ae79bd0b8cb2)
 
 ## Maintainers
-@captain-sal and @Nitya-Pasrija 
+[@captain-sal](https://github.com/captain-sal) and [@Nitya-Pasrija](https://github.com/Nitya-Pasrija)
+
+## Reviewers
+[@PriyaDeveloper630](https://github.com/PriyaDeveloper630)
 
 Please reach out to the maintainers if you get stuck or wish to report someone.
 
